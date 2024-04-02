@@ -1,0 +1,22 @@
+{
+  "name": "create-koi",
+  "version": "1.0.0",
+  "description": "create-koi",
+  "main": "index.mjs",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "httpsgithub.comzuiaibaicaiyacreate-koi.git"
+  },
+  "keywords": [
+    "electron",
+    "vite",
+    "typescript"
+  ],
+  "bin": {
+    "koi": "index.mjs"
+  },
+  "author": "",
+  "license": "MIT"
+}
